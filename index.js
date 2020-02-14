@@ -26,6 +26,6 @@ connection.connect(function(err) {
 
 
 app.listen(PORT, () => {
-    console.log(`RUN ON PORT ${PORT}`);
+    console.log(`RUN ON THE PORT ${PORT}`);
     
 })
